@@ -27,4 +27,6 @@
 - https://habr.com/ru/articles/259055/
 
 Список выполненных задач:
-...
+1. 3rd task done:
+Move sensitive information to a separate properties file:
+Made 2 yaml files.
